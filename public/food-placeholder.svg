@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f1eee7"/>
+  <circle cx="400" cy="300" r="185" fill="#fff" stroke="#e7e2d8" stroke-width="12"/>
+  <circle cx="400" cy="300" r="133" fill="#f5eee4"/>
+  <path d="M290 328c0-61 49-110 110-110s110 49 110 110" fill="#e8783e" opacity=".88"/>
+  <path d="M318 324c0-45 37-82 82-82s82 37 82 82" fill="#fff9ee"/>
+  <circle cx="400" cy="310" r="42" fill="#f0c97c"/>
+  <path d="M353 416c32 21 63 30 94 30s62-9 94-30" fill="none" stroke="#d9d1c4" stroke-width="9" stroke-linecap="round"/>
+  <text x="400" y="520" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#8b867d">كادري</text>
+</svg>
